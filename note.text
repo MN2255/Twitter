@@ -1,0 +1,51 @@
+             <div class="container d-flex justify-content-center align-items-start">
+                    <div class="card">
+                        <div class="col-sm-2 upper">
+                            <img src="./img/1500x500.jpeg" class="img-fluid">
+                        </div>
+                        <div class="user text-center">
+                            <div class="profile">
+                                <img src="./img/NMud1edd_400x400.jpg" class="rounded-circle" width="90">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+.card {
+  width: 100%;
+  border: none;
+  border-radius: 15px;
+  padding: 8px;
+  background-color: #fff;
+  position: relative;
+  height: 370px;
+}
+.upper img {
+  width: 100%;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+.user {
+  position: relative;
+}
+
+.profile img {
+  height: 100%;
+  width: 100%;
+  margin-top: 2px;
+}
+
+.profile {
+  position: absolute;
+  top: -50px;
+  left: 3%;
+  height: 148px;
+    width: 152px;
+  border: 3px solid #fff;
+  border-radius: 60%;
+}

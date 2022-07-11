@@ -1,0 +1,151 @@
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+.bighome:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 130px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+
+.home {
+  display: inline;
+  font-size: 25px;
+}
+.hometitle {
+  display: inline;
+  padding-left: 10px;
+  font-size: x-large;
+}
+.bigexpoler:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 130px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.expoler {
+  display: inline;
+  font-size: 20px;
+  padding-left: 5px;
+}
+.expolertitle {
+  display: inline;
+  padding-left: 15px;
+}
+.bignotfi:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.notfi {
+  display: inline;
+  font-size: 20px;
+}
+.notfititle {
+  display: inline;
+  padding-left: 16px;
+}
+/* .bigmesseg{
+
+} */
+.bigmesseg:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.messeg {
+  display: inline;
+}
+.messegtitle {
+  display: inline;
+  padding-left: 18px;
+}
+.bigprof:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.prof {
+  display: inline;
+}
+.proftitle {
+  display: inline;
+  padding-left: 18px;
+}
+.bigbook:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.book {
+  display: inline;
+}
+.booktitle {
+  display: inline;
+  padding-left: 18px;
+}
+.biglist:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.list {
+  display: inline;
+}
+.listtitle {
+  display: inline;
+  padding-left: 10px;
+}
+.bigmore:hover {
+  background-color: rgba(128, 128, 128, 0.473);
+  width: 160px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+.more {
+  display: inline;
+}
+.moretitle {
+  display: inline;
+  padding-left: 15px;
+}
+.bt-tweet:hover {
+  background-color: rgb(15, 104, 163);
+}
+.bigtweet {
+  display: inline;
+  padding-top: 250px;
+}
+.bt-tweet {
+  background-color: rgb(29, 155, 240);
+  width: 200px;
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+}
+
+.profile img {
+    height: 100%;
+    width: 100%;
+    
+    border-radius: 50%;
+  }
+  
+  .profile {
+    position: relative;
+    top: -45px;
+    left: 3%;
+    height: 148px;
+      width: 152px;
+    border: 4px solid #fff;
+    border-radius: 60%;
+  }
+  
